@@ -1,4 +1,4 @@
-# Traddemarks in Open Source
+# Traymarks in Open Source
 
 [TOC]
 
