@@ -1,5 +1,6 @@
 ---
-title: "Hoofmarks"
+title: "Docmarks"
+layout: default
 ---
 # Hoffa in Open Source
 
