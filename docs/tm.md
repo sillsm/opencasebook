@@ -1,4 +1,5 @@
-# Trademarks in Open Source
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
+# Traemarks in Open Source
 
 [TOC]
 
