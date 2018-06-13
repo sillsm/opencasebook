@@ -4,6 +4,5 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: docs
     values:
-      layout: t2
+      layout: "t2"
