@@ -1,7 +1,7 @@
 ---
 title: "Hoofmarks"
 ---
-# Trashmarks in Open Source
+# Hoffa in Open Source
 
 [TOC]
 
