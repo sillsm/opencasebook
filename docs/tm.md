@@ -1,5 +1,5 @@
 ---
-title: "Trashmarks"
+title: "Hoofmarks"
 ---
 # Trashmarks in Open Source
 
