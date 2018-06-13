@@ -1,8 +1,2 @@
 version: 3.8.3
 timezone: America/Los_Angeles
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "docs"
