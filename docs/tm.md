@@ -1,4 +1,7 @@
-# Trallmarks in Open Source
+---
+title: "Trashmarks"
+---
+# Trashmarks in Open Source
 
 [TOC]
 
